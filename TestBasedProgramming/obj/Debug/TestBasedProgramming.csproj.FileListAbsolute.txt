@@ -1,0 +1,8 @@
+F:\Hoc tap\LuanVan2017\Github\TestBasedProgramming\TestBasedProgramming\bin\Debug\TestBasedProgramming.exe.config
+F:\Hoc tap\LuanVan2017\Github\TestBasedProgramming\TestBasedProgramming\bin\Debug\TestBasedProgramming.exe
+F:\Hoc tap\LuanVan2017\Github\TestBasedProgramming\TestBasedProgramming\bin\Debug\TestBasedProgramming.pdb
+F:\Hoc tap\LuanVan2017\Github\TestBasedProgramming\TestBasedProgramming\obj\Debug\TestBasedProgramming.csprojResolveAssemblyReference.cache
+F:\Hoc tap\LuanVan2017\Github\TestBasedProgramming\TestBasedProgramming\obj\Debug\TestBasedProgramming.Properties.Resources.resources
+F:\Hoc tap\LuanVan2017\Github\TestBasedProgramming\TestBasedProgramming\obj\Debug\TestBasedProgramming.csproj.GenerateResource.Cache
+F:\Hoc tap\LuanVan2017\Github\TestBasedProgramming\TestBasedProgramming\obj\Debug\TestBasedProgramming.exe
+F:\Hoc tap\LuanVan2017\Github\TestBasedProgramming\TestBasedProgramming\obj\Debug\TestBasedProgramming.pdb
